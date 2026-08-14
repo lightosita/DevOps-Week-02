@@ -4,7 +4,9 @@
 
 This project was created as part of my DevOps Week 02 hands-on activity.
 
+
 The project demonstrates a practical Git and GitHub workflow used in a DevOps environment. It covers repository management, branching, commits, merging, Pull Requests, merge conflict resolution, and project documentation.
+
 
 ## Objectives
 
