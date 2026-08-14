@@ -4,7 +4,9 @@
 
 This project was created as part of my DevOps Week 02 hands-on activity.
 
-The purpose of the project is to practice Git and GitHub workflows, including:
+The purpose of this project is to demonstrate practical DevOps source code management
+ using Git and GitHub.
+
 
 - Git repository management
 - Branching
